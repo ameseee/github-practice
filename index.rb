@@ -1,5 +1,5 @@
 name = "Amy"
-dogs = 2
+dogs = 3
 kids = 1
 
 puts "Hi"
